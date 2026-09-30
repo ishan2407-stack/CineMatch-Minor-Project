@@ -1,0 +1,9 @@
+CineMatch - Movie Recommendations
+
+User ID: 1
+
+Lawrence of Arabia (1962) --> Predicted Rating: 5.00
+Cinema Paradiso (Nuovo cinema Paradiso) (1989) --> Predicted Rating: 5.00
+Rosemary's Baby (1968) --> Predicted Rating: 5.00
+Life Is Beautiful (La Vita è bella) (1997) --> Predicted Rating: 5.00
+Shawshank Redemption, The (1994) --> Predicted Rating: 5.00
